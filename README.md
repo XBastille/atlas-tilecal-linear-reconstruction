@@ -116,20 +116,22 @@ The baseline Optimal Filtering 2 (OF2) weights are built using this data-derived
 ## References
 
 ```bibtex
+```bibtex
 @inproceedings{curcio2025,
       title={Machine Learning-Based Energy Reconstruction for the ATLAS Tile Calorimeter at HL-LHC}, 
-      author={Francesca Curcio},
+      author={Francesco Curcio},
       year={2025},
       eprint={2502.19323},
       archivePrefix={arXiv},
       primaryClass={physics.ins-det},
-      url={https://arxiv.org/abs/2502.19323}, 
+      url={https://arxiv.org/abs/2502.19323},
+      note={Submitted to SciPost Physics Proceedings (EuCAIFCon2025)}
 }
 
-@article{oliveira2020,
+@inproceedings{oliveira2020,
     author={Oliveira Gonçalves, D.},
     title={Energy reconstruction of the ATLAS Tile Calorimeter under high pile-up conditions using the Wiener filter},
-    journal={Journal of Physics: Conference Series},
+    booktitle={Journal of Physics: Conference Series},
     volume={1525},
     number={1},
     pages={012092},
