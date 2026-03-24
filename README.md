@@ -116,7 +116,6 @@ The baseline Optimal Filtering 2 (OF2) weights are built using this data-derived
 ## References
 
 ```bibtex
-```bibtex
 @inproceedings{curcio2025,
       title={Machine Learning-Based Energy Reconstruction for the ATLAS Tile Calorimeter at HL-LHC}, 
       author={Francesco Curcio},
