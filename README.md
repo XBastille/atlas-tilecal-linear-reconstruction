@@ -3,7 +3,8 @@
 GSoC 2026 evaluation test for CERN-HSF: AI-Accelerated Reconstruction for the
 ATLAS Tile Calorimeter at the HL-LHC.
 
-### Evaluation Test Results: Accepted
+### Evaluation Test Status: Accepted
+### Proposal Status: Accepted (By GSoC and Mentors)
 
 ## Problem
 
