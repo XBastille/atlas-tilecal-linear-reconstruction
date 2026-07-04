@@ -124,7 +124,6 @@ The baseline Optimal Filtering 2 (OF2) weights are built using this data-derived
       eprint={2502.19323},
       archivePrefix={arXiv},
       primaryClass={physics.ins-det},
-      url={https://arxiv.org/abs/2502.19323},
       note={Submitted to SciPost Physics Proceedings (EuCAIFCon2025)}
 }
 
